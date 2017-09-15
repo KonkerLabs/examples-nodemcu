@@ -28,6 +28,7 @@ What you need?
    * I just changed the GND to other closest to the digital port =D
 
 3 - Open firmware.ino file in your ArduinoIDE
+
 4 - Click on Upload Button and open the Serial Monitor by pressing Tools->Serial Monitor
   4.1 - Change baud to 9600
 
