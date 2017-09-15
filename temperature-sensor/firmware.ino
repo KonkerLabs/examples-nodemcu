@@ -16,15 +16,15 @@ DallasTemperature sensors(&oneWire);
 
 
 // Internet access
-const char* ssid = "demokonker";
-const char* password = "yellowkonker";
+const char* ssid = "THE_WIFI_SSID";
+const char* password = "THE_WIFI_PASSWORD";
 
 // Konker MQTT
 const char* mqtt_server = "mqtt.demo.konkerlabs.net";
 
-const char* USER = "7ljdqsu38okd";
-const char* PWD = "HElUADf2mwzY";
-const char* PUB = "data/7ljdqsu38okd/pub/temperatura";
+const char* USER = "DEVICE_USER";
+const char* PWD = "DEVICE_PASSWORD";
+const char* PUB = "data/{DEVICE_USER}/pub/{YOUR_PREFERED_CHANNEL}";
 
 //global scope
 char bufferJ[256];
