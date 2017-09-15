@@ -7,4 +7,4 @@ Try Nodemcu actived by Konker
 
 ## License
 
-[Apache v2](https://github.com/KonkerLabs/examples-nodemcu/blob/master/LICENSE)
+[Apache License 2.0](https://github.com/KonkerLabs/examples-nodemcu/blob/master/LICENSE)
